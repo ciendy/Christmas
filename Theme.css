@@ -395,13 +395,13 @@ i.icon.icon-time {
     filter: brightness(3) saturate(0);
 }
 #playlist-import:hover, #playlist-create:hover, #playlist-shuffle-button:hover, .pop-menu li:hover {
-    background: #6da436 !important;
+    background: #013e91 !important;
 }
 #playlist-edit-button:hover, .media-list .action.edit:hover {
-    background: #00b5e6 !important;
+    background: #013e91 !important;
 }
 #playlist-delete-button:hover, .media-list .action.delete:hover {
-    background: #f46b40 !important;
+    background: #013e91 !important;
 }
 .media-list .actions .action {
     height: 55px !important;
