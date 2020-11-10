@@ -24,11 +24,11 @@
         "subscriber": null,
         "silversubscriber": null,
         "friend": null,
-        "user": null
+        "user": null,
     },
     "images": {
-        "background": ",
-        "playback": "",
+        "background": null,
+        "playback": null,
         "admin": null,
         "ambassador": "https://i.imgur.com/6XjToOs.png",
         "host": "https://i.imgur.com/s2K9Hbx.png",
@@ -37,9 +37,9 @@
         "bouncer": "https://i.imgur.com/XU11yQs.png",
         "rdj": "https://i.imgur.com/U6A5crj.png",
         "subscriber": null,
-        "silversubscriber": null
+        "silversubscriber": null,
     },
     "emotes": {
-    	"emote_name": null
+    	"emote_name": null,
     }
 }
