@@ -1,0 +1,45 @@
+{
+    "room": "Hardstyle",
+    "author": "Ciendy",
+    "icon": null,
+    "css": "https://raw.githack.com/ciendy/event-party-christmas/main/Theme.css",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": null,
+        "ambassador": "#FF8C00",
+        "host": "#228B22",
+        "cohost": "#228B22",
+        "manager": "#68B354",
+        "bouncer": "#68B354",
+        "rdj": "#68B354",
+        "subscriber": null,
+        "silversubscriber": null,
+        "friend": null,
+        "user": null
+    },
+    "images": {
+        "background": ",
+        "playback": "",
+        "admin": null,
+        "ambassador": "https://i.imgur.com/6XjToOs.png",
+        "host": "https://i.imgur.com/s2K9Hbx.png",
+        "cohost": "https://i.imgur.com/s2K9Hbx.png",
+        "manager": "https://i.imgur.com/JUxX74M.png",
+        "bouncer": "https://i.imgur.com/XU11yQs.png",
+        "rdj": "https://i.imgur.com/U6A5crj.png",
+        "subscriber": null,
+        "silversubscriber": null
+    },
+    "emotes": {
+    	"emote_name": null
+    }
+}
