@@ -1,8 +1,8 @@
 {
-    "room": "Hardstyle",
+    "room": "Christmas",
     "author": "Ciendy",
     "icon": null,
-    "css": "https://raw.githack.com/ciendy/event-party-christmas/main/Theme.css",
+    "css": "https://raw.githack.com/ciendy/christmas/main/Theme.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
